@@ -1,0 +1,12 @@
+BMx280	KEYWORD1
+beginI2C	KEYWORD2
+beginSPI	KEYWORD2
+setSampling	KEYWORD2
+read280	KEYWORD2
+readForced280	KEYWORD2
+readAltitude	KEYWORD2
+chipID	KEYWORD2
+status	KEYWORD2
+isMeasuring	KEYWORD2
+isUpdatingNVM	KEYWORD2
+hasHumidity	KEYWORD2
